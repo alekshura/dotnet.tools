@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet.Tools.OpenXml", "dotnet.tools\Dotnet.Tools.OpenXml\Dotnet.Tools.OpenXml.csproj", "{6EADED69-F4D1-4C6C-9065-F36EDCEBE31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Tools.ConsoleApp", "dotnet.tools\Dotnet.Tools.ConsoleApp\Dotnet.Tools.ConsoleApp.csproj", "{B3176525-2FA4-468B-BC69-650B8460EF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EADED69-F4D1-4C6C-9065-F36EDCEBE31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EADED69-F4D1-4C6C-9065-F36EDCEBE31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EADED69-F4D1-4C6C-9065-F36EDCEBE31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EADED69-F4D1-4C6C-9065-F36EDCEBE31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3176525-2FA4-468B-BC69-650B8460EF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3176525-2FA4-468B-BC69-650B8460EF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3176525-2FA4-468B-BC69-650B8460EF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3176525-2FA4-468B-BC69-650B8460EF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BCE8694-9A7E-40ED-89E4-23B012DECC62}
+	EndGlobalSection
+EndGlobal
