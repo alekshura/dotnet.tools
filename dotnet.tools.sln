@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet.Tools.OpenXml", "dot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet.Tools.ConsoleApp", "dotnet.tools\Dotnet.Tools.ConsoleApp\Dotnet.Tools.ConsoleApp.csproj", "{B3176525-2FA4-468B-BC69-650B8460EF39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Tools.Database", "Dotnet.Tools.Database\Dotnet.Tools.Database.csproj", "{35A42726-E5F2-4445-9651-D375BEBD0E9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Tools.Barcode", "Dotnet.Tools.Barcode\Dotnet.Tools.Barcode.csproj", "{8A7607EA-32DF-4C3A-B1D7-07026E323A54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{B3176525-2FA4-468B-BC69-650B8460EF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3176525-2FA4-468B-BC69-650B8460EF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3176525-2FA4-468B-BC69-650B8460EF39}.Release|Any CPU.Build.0 = Release|Any CPU
-		{35A42726-E5F2-4445-9651-D375BEBD0E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35A42726-E5F2-4445-9651-D375BEBD0E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35A42726-E5F2-4445-9651-D375BEBD0E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35A42726-E5F2-4445-9651-D375BEBD0E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7607EA-32DF-4C3A-B1D7-07026E323A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7607EA-32DF-4C3A-B1D7-07026E323A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7607EA-32DF-4C3A-B1D7-07026E323A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7607EA-32DF-4C3A-B1D7-07026E323A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
